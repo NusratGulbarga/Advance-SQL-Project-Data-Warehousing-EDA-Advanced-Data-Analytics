@@ -95,7 +95,7 @@ SQL-based dashboards & reports:
 # 🏗️ Project Architecture & Diagrams
 
 ### 📌 Overall Architecture  
-![Architecture](Overall Architecture.png)
+![Architecture](data_Architecture.png.png)
 
 ### 🕸 Mesh Architecture Layers  
 ![Mesh Architecture](Mesh_Architecture_Layers.png)
