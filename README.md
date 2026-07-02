@@ -95,19 +95,19 @@ SQL-based dashboards & reports:
 # 🏗️ Project Architecture & Diagrams
 
 ### 📌 Overall Architecture  
-![Architecture](Data%20Warehouse/docs/data_architecture.png)
+![Architecture](data_architecture.png)
 
 ### 🕸 Mesh Architecture Layers  
-![Mesh Architecture](Data%20Warehouse/docs/Mesh_Architecture_Layers.png)
+![Mesh Architecture](Mesh_Architecture_Layers.png)
 
 ### 🔗 Data Integration Workflow  
-![Data Integration](Data%20Warehouse/docs/data_integration.png)
+![Data Integration](data_integration.png)
 
 ### 🔄 Data Flow Diagram  
-![Data Flow](Data%20Warehouse/docs/data_flow.png)
+![Data Flow](data_flow.png)
 
 ### 🧩 Star Schema Data Model  
-![Data Model](Data%20Warehouse/docs/data_model.png)
+![Data Model](data_model.png)
 
 ---
 
