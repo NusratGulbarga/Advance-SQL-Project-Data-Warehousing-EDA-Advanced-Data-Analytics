@@ -389,8 +389,6 @@ No real customer or company data is used.
 📍 Data Analyst | Python Developer | SQL | Power BI | Excel | Data Visualization  
 📬 [LinkedIn](https://www.linkedin.com/in/nusratgulbarga/) | 🔗[GitHub](https://github.com/NusratGulbarga)
 
-📧 [harshbelekar74@gmail.com](mailto:nusratdataanalyst@gmail.com)
-
 ---
 
 ⭐ *If you found this project helpful, feel free to star the repo and connect with me for collaboration!*
